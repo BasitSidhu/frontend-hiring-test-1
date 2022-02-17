@@ -1,0 +1,35 @@
+html,
+body {
+  background-color: rgb(222, 231, 233)!important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.tabnle th{
+  background-color: black;
+}
+.setting{
+  margin-top: 20px;
+ 
+}
+.setting2 {
+  margin-top: 15px;
+  
+  
+}
+.setting2 input{
+  border: none;
+  border-radius: 2rem;
+  text-align: center;
+}
+.setting input{
+ border: none;
+  border-radius: 2rem;
+  text-align: center;
+}
