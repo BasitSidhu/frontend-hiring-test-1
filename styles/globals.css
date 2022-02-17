@@ -1,9 +1,6 @@
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: bisque!important;
 }
 
 a {
@@ -13,4 +10,26 @@ a {
 
 * {
   box-sizing: border-box;
+}
+.tabnle th{
+  background-color: black;
+}
+.setting{
+  margin-top: 20px;
+ 
+}
+.setting2 {
+  margin-top: 15px;
+  
+  
+}
+.setting2 input{
+  border: none;
+  border-radius: 2rem;
+  text-align: center;
+}
+.setting input{
+ border: none;
+  border-radius: 2rem;
+  text-align: center;
 }
